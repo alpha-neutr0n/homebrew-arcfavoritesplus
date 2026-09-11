@@ -4,8 +4,8 @@ cask "arcfavoritesplus" do
 
   url "https://github.com/alpha-neutr0n/arcfavoritesplus-releases/releases/download/v#{version}/ArcFavoritesPlus.zip"
   name "Arc Favorites+"
-  desc "Unlimited favorites for Arc browser, past its 12-pin limit"
-  homepage "https://github.com/alpha-neutr0n/arcfavoritesplus-releases"
+  desc "Unlimited favorites for Arc browser, past its 12-pin limit (free tier: 5)"
+  homepage "https://alpha-neutr0n.github.io/arcfavoritesplus-releases/"
 
   # Ad-hoc signed, not notarized (see README) — installing via `brew`
   # means this is downloaded with curl, not a browser, so it never
