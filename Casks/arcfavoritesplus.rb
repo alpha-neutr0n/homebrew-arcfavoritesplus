@@ -1,6 +1,6 @@
 cask "arcfavoritesplus" do
-  version "1.0.0" # bump this on every stable release
-  sha256 "ce5ce0379c6e9245d53f350a505de53e87557b48e94f790991d95b5f89278cee"
+  version "1.0.1" # bump this on every stable release
+  sha256 "734ec8a02dc66359f38b8e32da26515d12cbde12a536e45ff272a1218a7394fb"
 
   url "https://github.com/alpha-neutr0n/arcfavoritesplus-releases/releases/download/v#{version}/ArcFavoritesPlus.zip"
   name "Arc Favorites+"
