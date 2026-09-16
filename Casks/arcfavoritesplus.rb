@@ -1,10 +1,10 @@
 cask "arcfavoritesplus" do
   version "1.0.0" # bump this on every stable release
-  sha256 "REPLACE_ME_WITH_SHA256_FROM_RELEASE_WORKFLOW_OUTPUT"
+  sha256 "ce5ce0379c6e9245d53f350a505de53e87557b48e94f790991d95b5f89278cee"
 
   url "https://github.com/alpha-neutr0n/arcfavoritesplus-releases/releases/download/v#{version}/ArcFavoritesPlus.zip"
   name "Arc Favorites+"
-  desc "Unlimited favorites for Arc browser, past its 12-pin limit (free tier: 5)"
+  desc "Unlimited favorites for Arc browser, past its 12-pin limit (free tier: 3)"
   homepage "https://alpha-neutr0n.github.io/arcfavoritesplus-releases/"
 
   # Ad-hoc signed, not notarized (see README) — installing via `brew`
